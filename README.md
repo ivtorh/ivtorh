@@ -42,7 +42,7 @@
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D2115)&nbsp;
 
 <div align="center">
 <br>
