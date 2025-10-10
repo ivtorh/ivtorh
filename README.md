@@ -34,7 +34,7 @@
   
 ### Studying in this moment:
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D2115)&nbsp;
-![Next.js](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js)&nbsp;
 
   
 
