@@ -17,7 +17,7 @@
   
 
 ### Main skills:
-![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
